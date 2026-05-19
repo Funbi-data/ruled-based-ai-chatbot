@@ -1,2 +1,22 @@
-# ruled-based-ai-chatbot
-A Rule-Based AI Chatbot built with Python as part of my AI Engineering internship journey. This project demonstrates core concepts such as control flow, decision-making logic, continuous loops, input sanitization, and rule-based responses.
+# Rule-Based AI Chatbot 🤖
+
+A beginner AI engineering project built with Python.
+
+## Features
+- Handles greetings
+- Uses rule-based logic
+- Continuous chatbot loop
+- Exit command support
+- Input sanitization
+
+## Technologies
+- Python
+- Git
+- GitHub
+
+## Concepts Learned
+- if/else logic
+- loops
+- dictionaries
+- chatbot architecture
+- AI fundamentals
